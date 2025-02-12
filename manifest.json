@@ -1,0 +1,16 @@
+{
+    "id": "org.stremio.thedaddysports",
+    "version": "1.0.0",
+    "name": "The Daddy Sports",
+    "description": "Addon to fetch live sports streams",
+    "resources": [
+        "stream"
+    ],
+    "types": [
+        "tv"
+    ],
+    "catalogs": [],
+    "idPrefixes": [
+        "tt"
+    ]
+}
